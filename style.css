@@ -101,3 +101,10 @@ body{
 .registrer-link p a:hover{
     text-decoration: underline;
 }
+#result{
+
+    color: rgb(255, 242, 0);
+    font-weight: 700;
+    position: relative;
+    top: 25px;
+}
